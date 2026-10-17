@@ -13,7 +13,6 @@ An external C++ ImGui overlay for Scam With Your Friends. It uses a dynamic poin
 * **ImGui Overlay:** Modern DirectX 11 menu (Toggle with `INSERT`).
 * **Cash Reader:** Displays your current in-game cash in real-time.
 * **Set & Freeze:** Writes your desired cash value every frame to prevent the server from reverting it.
-* **Auto-Admin:** Automatically prompts for Administrator privileges on launch.
 
 ## How to Use
 1. Launch **Scam With Your Friends** and enter a match.
